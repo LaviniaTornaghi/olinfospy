@@ -1,0 +1,2554 @@
+utente2
+All Possible Increasing Subsequences@ 100 
+Flipping Coins@ 5 
+Can you answer these queries III@ 100 
+Traffic Congestion@ 100 
+Trova il massimo@ 100 
+Trova la somma pari massima v2.0@ 90 
+Campo minato@ 100 
+La congettura di Collatz@ 100 
+Salti spettacolari@ 100 
+Tè con gli amici@ 50 
+Trasporti pericolosi@ 100 
+Biglietti a Milano@ 100 
+Hello World!@ 100 
+Tris in solitaria@ 0 
+Fette di strudel@ 100 
+Previsioni meteorologiche@ 100 
+Terrazzamenti@ 100 
+Ordinamento a paletta@ 100 
+Truffa contabile@ 100 
+Dijkstra@ 0 
+Apple juice challenge@ 0 
+Sede Centrale@ 92 
+Greedy Santa@ 50 
+N-Restaurants@ 100 
+Forced Sales@ 100 
+Treni@ 100 
+Forgotten Pencil Case@ 15 
+Air Traffic Control@ 100 
+Crittografia RSA@ 100 
+Murale@ 60 
+Biliardino@ 15 
+Dangerous Flowers@ 100 
+Electrical Power Line@ 0 
+Reazione a candela@ 26 
+Emoji di compleanno@ 0 
+Coin Change@ 0 
+Guess The Sign@ 100 
+Smart Thermostat@ 100 
+Buy 3, Pay for 2@ 100 
+Productivity Prize@ 100 
+Subtrees' mode@ 50 
+Implement a segment tree@ 0 
+Lowest Common Ancestor@ 75 
+Sand Buckets@ 100 
+Pulizie d'autunno@ 100 
+Rifiuti da riciclare@ 5 
+Pub Encounter@ 20 
+Police Investigation 5@ 100 
+Flappy Bird@ 100 
+Training for the Marathon@ 45 
+Police Investigation 6@ 100 
+Trova il massimo@ 100 
+Bustine di carte@ 100 
+Connect the Dots@ 100 
+Fuga da Varaždin@ 100 
+Comune di Alleib@ 100 
+Insiemi nell'armadio@ 41 
+Galleria d'arte@ 55 
+Episodio I: un acquisto difficile@ 0 
+Panama Sum@ 100 
+Police Patrol@ 10 
+Chess Tournament II@ 100 
+Vending Machines@ 0 
+Grande Muraglia@ 100 
+Soste in autostrada@ 0 
+end
+uomotecnologico
+Chi cerchia trova@ 0 
+Formiche, che soggetto!@ 100 
+Galleria d'arte@ 100 
+end
+LaviniaTornaghi
+All Possible Increasing Subsequences@ 100 
+Can you answer these queries III@ 100 
+Traffic Congestion@ 100 
+Trova il massimo@ 100 
+Campo minato@ 100 
+La dieta di Poldo@ 100 
+La congettura di Collatz@ 100 
+Salti spettacolari@ 100 
+Tè con gli amici@ 100 
+Trasporti pericolosi@ 100 
+Minimum spanning tree@ 100 
+Biglietti a Milano@ 100 
+Edoardo e la lotteria@ 100 
+Hello World!@ 100 
+Suffissi@ 100 
+Tris in solitaria@ 100 
+Fette di strudel@ 100 
+Pranzo dalla nonna@ 100 
+Previsioni meteorologiche@ 100 
+Menù giapponese@ 100 
+Terrazzamenti@ 100 
+Ordinamento a paletta@ 100 
+Truffa contabile@ 100 
+Super Marco@ 100 
+Numero della cabala@ 100 
+The Floor is Lava@ 100 
+Caesar Cypher@ 100 
+Department blackout@ 100 
+Saddest friend@ 100 
+Keylogger@ 100 
+Convegno aziendale@ 100 
+Sede Centrale@ 92 
+Festival del GCD@ 49 
+N-Restaurants@ 100 
+Forced Sales@ 100 
+Bus Trip@ 100 
+Treni@ 100 
+Forgotten Pencil Case@ 100 
+Air Traffic Control@ 100 
+Air Traffic Control II@ 100 
+Crittografia RSA@ 100 
+Lotteria di quadri@ 100 
+Murale@ 100 
+Dangerous Flowers@ 100 
+Worst Exam Ever!@ 100 
+Encrypted Contacts@ 100 
+Halloween Candies@ 100 
+Police Investigation@ 100 
+Pay That Box!@ 100 
+Find the Treasure@ 100 
+Ropes Escape@ 100 
+Exam Session@ 100 
+Delivery Time@ 100 
+Tax Fraud Detection@ 100 
+Electrical Power Line@ 100 
+Swimming Pool@ 100 
+Guess The Sign@ 100 
+Second Dose@ 100 
+Smart Thermostat@ 100 
+Buy 3, Pay for 2@ 100 
+Productivity Prize@ 100 
+Pronounceable Words@ 40 
+Subtrees' mode@ 100 
+Implement a segment tree@ 100 
+Lowest Common Ancestor@ 100 
+Musical Fight@ 100 
+Quantum Brackets@ 100 
+Sand Buckets@ 100 
+Disk Failure@ 100 
+Police Investigation 3@ 100 
+Pulizie d'autunno@ 100 
+Rifiuti da riciclare@ 100 
+Aggiornamento della macchina virtuale@ 100 
+Beta Release@ 100 
+Christmas Balls@ 100 
+Disk Failure 2@ 100 
+Kalindrome Strings@ 100 
+Pub Encounter@ 20 
+Police Investigation 5@ 100 
+Investing in Stocks@ 100 
+Flappy Bird@ 100 
+Keyboard Shift@ 100 
+Training for the Marathon@ 100 
+Police Investigation 6@ 100 
+Wine Tasting Tour@ 100 
+Game of the Goose@ 100 
+Quasi-Isogram@ 100 
+Training for the Marathon 2@ 25 
+Police Investigation 4@ 40 
+Solving Wordle@ 100 
+Trova la parità@ 100 
+Tieni aggiornato il catalogo@ 100 
+La camera dei cestini@ 100 
+Cammino minimo@ 100 
+Trova il massimo@ 100 
+Operazioni su array@ 100 
+Drawing Slashes@ 100 
+Chess Tournament@ 100 
+Gelati costosi@ 100 
+Bustine di carte@ 100 
+Festa Estiva@ 100 
+Sui tetti di Pisa@ 40 
+Connect the Dots@ 100 
+Fuga da Varaždin@ 100 
+Formiche, che soggetto!@ 100 
+Comune di Alleib@ 100 
+Insiemi nell'armadio@ 41 
+Galleria d'arte@ 55 
+Episodio I: un acquisto difficile@ 100 
+Episodio II: un lungo viaggio@ 100 
+Episodio III: la coda per il buffet@ 100 
+Halloween Candies@ 100 
+Monopoly Board Game@ 100 
+Panama Sum@ 100 
+Chess Tournament II@ 100 
+Vending Machines@ 100 
+Grande Muraglia@ 100 
+Soste in autostrada@ 100 
+end
+utente2
+All Possible Increasing Subsequences@ 100  
+Flipping Coins@ 5  
+Can you answer these queries III@ 100  
+Traffic Congestion@ 100  
+Trova il massimo@ 100  
+Trova la somma pari massima v2.0@ 90  
+Campo minato@ 100  
+La congettura di Collatz@ 100  
+Salti spettacolari@ 100  
+Tè con gli amici@ 50  
+Trasporti pericolosi@ 100  
+Biglietti a Milano@ 100  
+Hello World!@ 100  
+Tris in solitaria@ 0  
+Fette di strudel@ 100  
+Previsioni meteorologiche@ 100  
+Terrazzamenti@ 100  
+Ordinamento a paletta@ 100  
+Truffa contabile@ 100  
+Dijkstra@ 0  
+Apple juice challenge@ 0  
+Sede Centrale@ 92  
+Greedy Santa@ 50  
+N-Restaurants@ 100  
+Forced Sales@ 100  
+Treni@ 100  
+Forgotten Pencil Case@ 15  
+Air Traffic Control@ 100  
+Crittografia RSA@ 100  
+Murale@ 60  
+Biliardino@ 15  
+Dangerous Flowers@ 100  
+Electrical Power Line@ 0  
+Reazione a candela@ 26  
+Emoji di compleanno@ 0  
+Coin Change@ 0  
+Guess The Sign@ 100  
+Smart Thermostat@ 100  
+Buy 3, Pay for 2@ 100  
+Productivity Prize@ 100  
+Subtrees' mode@ 50  
+Implement a segment tree@ 0  
+Lowest Common Ancestor@ 75  
+Sand Buckets@ 100  
+Pulizie d'autunno@ 100  
+Rifiuti da riciclare@ 5  
+Pub Encounter@ 20  
+Police Investigation 5@ 100  
+Flappy Bird@ 100  
+Training for the Marathon@ 45  
+Police Investigation 6@ 100  
+Bustine di carte@ 100  
+Connect the Dots@ 100  
+Fuga da Varaždin@ 100  
+Comune di Alleib@ 100  
+Insiemi nell'armadio@ 41  
+Galleria d'arte@ 55  
+Episodio I: un acquisto difficile@ 0  
+Panama Sum@ 100  
+Police Patrol@ 10  
+Chess Tournament II@ 100  
+Vending Machines@ 0  
+Grande Muraglia@ 100  
+Soste in autostrada@ 0  
+end
+MatteoArcari
+Aliens@ 83  
+Crocodile@ 100  
+Place@ 100  
+All Possible Increasing Subsequences@ 100  
+Allenamento per la maratona@ 53  
+Scrivere senza staccare la matita dal foglio@ 100  
+Controllare l'accampamento@ 100  
+Flipping Coins@ 100  
+Multiples of 3@ 100  
+Can you answer these queries III@ 100  
+Salta il coniglietto@ 100  
+Massima sottostringa@ 100  
+Triangoli pienotti@ 100  
+Mozzarelle di bufala@ 100  
+Maree a Venezia@ 100  
+Spiedini di frutta@ 100  
+Trova il massimo@ 100  
+Trova la somma pari massima@ 100  
+Trova la somma pari massima v2.0@ 100  
+Alberi@ 100  
+Il triangolo@ 100  
+Tecnico pazzo@ 100  
+Mappa antica@ 100  
+Torri@ 100  
+La dieta di Poldo@ 100  
+Piastrellature@ 100  
+Corso per sommelier@ 100  
+La congettura di Collatz@ 100  
+Insieme K-free@ 100  
+Cubetti colorati@ 100  
+Topologia di rete@ 100  
+Fuga dagli inseguitori@ 100  
+Per un pugno di baht@ 100  
+Salti spettacolari@ 100  
+Collo di bottiglia@ 100  
+Minimum spanning tree@ 100  
+Rifornimenti ai distributori@ 100  
+Biglietti a Milano@ 100  
+Numeri di Figonacci@ 100  
+cAPS lOCK@ 100  
+Interrogazioni equilibrate@ 100  
+Tagli al personale@ 100  
+Matrice prima@ 100  
+Hello World!@ 100  
+Quadrati perfetti@ 100  
+Pile di mattoni@ 100  
+Ponti e isole@ 100  
+Oro, argento e bronzo@ 100  
+Finanza creativa@ 100  
+Allocazione di memoria@ 100  
+Pesci Mangioni@ 100  
+Duplicato mancante@ 100  
+Crittografia riflessa@ 100  
+Sunnydale@ 100  
+Viaggio in taxi@ 100  
+Allineamento magnetico@ 100  
+Espressione di parentesi@ 100  
+Piano degli studi@ 100  
+Congettura di Lollatz@ 100  
+Inviti alla festa@ 100  
+Tris in solitaria@ 100  
+Piroette@ 100  
+Fette di strudel@ 100  
+Assenza di gravità@ 100  
+Limiti di velocità@ 100  
+PaH TuNZ@ 100  
+Illuminazione di sala@ 100  
+Trampolino elastico@ 100  
+Torneo di rugby@ 100  
+Pranzo dalla nonna@ 100  
+Calcolatrice d'epoca@ 100  
+Fila di grattacieli@ 100  
+Nanga Parbat@ 100  
+Barbablu@ 100  
+Turni@ 100  
+Missioni segrete@ 100  
+Essenza per profumi@ 100  
+Depurazione dell'acqua@ 100  
+Domino massimale@ 100  
+Grandprix@ 100  
+Classifica@ 100  
+Rispetta i versi@ 100  
+Numero semiprimo@ 100  
+Monete complicate@ 100  
+Terrazzamenti@ 100  
+Torre di controllo@ 100  
+Ordinamento a paletta@ 100  
+Maxi-server@ 100  
+Controllo degli estintori@ 100  
+Las Vegas@ 100  
+Congettura di Bicollatz@ 100  
+Truffa contabile@ 100  
+Impila la pila@ 100  
+Super Marco@ 100  
+Numero della cabala@ 100  
+Super Marco 2@ 100  
+Pausa caffè@ 100  
+Giro in bici@ 100  
+Drop-It!@ 100  
+Anno luce@ 100  
+Discesa massima@ 100  
+La spartizione di Totò@ 100  
+Sentieri bollenti@ 100  
+Ferrovia ad alta velocità@ 100  
+Esame di maturità@ 100  
+Dijkstra@ 100  
+The Floor is Lava@ 100  
+Server Farm@ 100  
+Independent House@ 100  
+Wheel of Fortune@ 100  
+Scenic Walkway@ 100  
+But It Keeps Getting Faster@ 100  
+Array Partition@ 100  
+Tax Return@ 100  
+Boring Chores@ 100  
+GitUbe Graph@ 100  
+Winning Strategies@ 84  
+Rescaling Sequence@ 100  
+Ma chi è quel mona?@ 100  
+Monete a posto@ 100  
+Somme costose@ 100  
+Sequenza di Pollatz@ 100  
+Tesla Motors@ 100  
+Crittografia LWF@ 100  
+Sport intellettuali@ 100  
+DreamTeam Selection@ 100  
+Science Against Spam@ 100  
+Citazioni nei paper@ 100  
+Studio amico@ 100  
+Decimal Fractions@ 90  
+Number Game@ 100  
+UEFA Coefficient@ 100  
+Oral exam@ 100  
+Olympic cake@ 100  
+Water park@ 100  
+Convegno aziendale@ 100  
+Minisupplì@ 100  
+Festa di laurea@ 100  
+Piano di studi@ 100  
+Greedy Santa@ 100  
+Shopping Malls@ 100  
+Muffin Selection@ 100  
+Call for Help@ 100  
+N-Restaurants@ 100  
+Chips@ 100  
+Enigmath Machine@ 100  
+Bus Trip@ 100  
+Treni@ 100  
+Railway Schedule@ 100  
+Forgotten Pencil Case@ 100  
+Meal Tickets@ 100  
+Lovely Cats@ 100  
+Text Editor@ 100  
+Chief Executive Officer@ 100  
+Gasoline Stations@ 100  
+Crittografia RSA@ 100  
+Lotteria di quadri@ 100  
+Grattacieli commemorativi@ 100  
+Sfida all'ultimo pangramma@ 33  
+Murale@ 100  
+Scavi fortunati@ 100  
+Making boxes@ 100  
+Tax avoidance@ 100  
+Bases Conversion@ 100  
+Improving Grades@ 100  
+Compulsive Smartphone Shopping@ 100  
+Secret Meeting@ 100  
+Worst Exam Ever!@ 100  
+Cultural Events@ 100  
+Exam Room@ 100  
+IP Address@ 100  
+Encrypted Contacts@ 100  
+Halloween Candies@ 100  
+Lightweight Ladder@ 100  
+Police Investigation@ 100  
+Pay That Box!@ 100  
+Find the Treasure@ 100  
+A Tantrum with Consequences@ 100  
+Ropes Escape@ 100  
+Late for Work@ 100  
+Camera dei Segreti@ 25  
+Circus Show@ 100  
+Pay That Box Again!@ 100  
+Splitting the Bill@ 100  
+Flood Forecasting@ 100  
+Graduation Card@ 100  
+Delivery Time@ 100  
+Tax Fraud Detection@ 100  
+Electrical Power Line@ 100  
+Swimming Pool@ 100  
+Emoji di compleanno@ 30  
+Coin Change@ 100  
+Police Investigation 2@ 100  
+Passphrase Obfuscation@ 100  
+Do Not Gather!@ 100  
+Perfect Hyperrectangle@ 100  
+Improve the Team!@ 100  
+Guess The Sign@ 100  
+Perfect Pizza@ 100  
+Second Dose@ 100  
+Smart Thermostat@ 100  
+Trending Topics@ 100  
+Buy 3, Pay for 2@ 100  
+Virus Sequencing@ 100  
+Productivity Prize@ 100  
+Pronounceable Words@ 100  
+Maybe you already know this problem@ 100  
+Subtrees' mode@ 25  
+Implement a segment tree@ 100  
+Lowest Common Ancestor@ 75  
+Chimney Service@ 0  
+Marathon Training@ 100  
+Quantum Brackets@ 100  
+Sand Buckets@ 100  
+Disk Failure@ 100  
+Police Investigation 3@ 100  
+Pulizie d'autunno@ 100  
+Rifiuti da riciclare@ 100  
+Foglietto illustrativo@ 38  
+Allenamento su ChinaForces@ 58  
+Aggiornamento della macchina virtuale@ 100  
+Beta Release@ 100  
+Christmas Balls@ 100  
+Disk Failure 2@ 100  
+Kalindrome Strings@ 100  
+Police Investigation 5@ 100  
+Investing in Stocks@ 100  
+Flappy Bird@ 100  
+Keyboard Shift@ 100  
+Police Investigation 6@ 100  
+The Sieve of Eratosthenes@ 50  
+Words, Just Words@ 100  
+Strange Constellations@ 100  
+Game of the Goose@ 100  
+Quasi-Isogram@ 100  
+Police Investigation 4@ 100  
+Solving Wordle@ 100  
+Trova la parità@ 100  
+Tieni aggiornato il catalogo@ 100  
+La camera dei cestini@ 100  
+Cammino minimo@ 100  
+Operazioni su array@ 100  
+Police Investigation 7@ 100  
+Practical Jokes@ 25  
+Reading Papers@ 100  
+Drawing Slashes@ 100  
+Chess Tournament@ 100  
+Gelati costosi@ 100  
+Bustine di carte@ 100  
+Festa Estiva@ 100  
+Torta di Compleanno@ 100  
+Sui tetti di Pisa@ 100  
+Glassworks@ 60  
+Connect the Dots@ 100  
+Plagiarism Detection@ 100  
+Chi cerchia trova@ 100  
+Indecisioni su array@ 100  
+Fuga da Varaždin@ 100  
+Formiche, che soggetto!@ 100  
+Comune di Alleib@ 100  
+Insiemi nell'armadio@ 100  
+Episodio I: un acquisto difficile@ 100  
+Episodio II: un lungo viaggio@ 100  
+Episodio III: la coda per il buffet@ 100  
+Episodio IV: tracce di DNA@ 21  
+Palindromic Dreams@ 100  
+Monopoly Board Game@ 100  
+Panama Sum@ 100  
+Police Patrol@ 100  
+Chess Tournament II@ 100  
+Vending Machines@ 100  
+Grande Muraglia@ 100  
+Tris in solitaria 2@ 100  
+Soste in autostrada@ 100  
+end
+Argon18
+La battaglia del convoglio@ 100  
+Place@ 100  
+Entscheidungsproblem@ 100  
+Allenamento per la maratona@ 100  
+Scrivere senza staccare la matita dal foglio@ 40  
+Flipping Coins@ 100  
+Multiples of 3@ 100  
+Can you answer these queries III@ 100  
+Salta il coniglietto@ 100  
+Mattia e i suoi vasi@ 100  
+Mattia e i suoi vasi 2.0@ 100  
+Spiedini di frutta@ 100  
+Trova il massimo@ 100  
+Trova la somma pari massima@ 100  
+Trova la somma pari massima v2.0@ 100  
+Il triangolo@ 100  
+La dieta di Poldo@ 100  
+Numeri antipatici@ 100  
+Accensione dei PC@ 100  
+Minimum spanning tree@ 100  
+Biglietti a Milano@ 100  
+Interrogazioni equilibrate@ 100  
+Edoardo e la lotteria@ 100  
+Tris in solitaria@ 100  
+Fette di strudel@ 100  
+Pranzo dalla nonna@ 100  
+Incendia lo trabucco@ 100  
+Torre di controllo@ 100  
+Ordinamento a paletta@ 100  
+Nemico mortale@ 100  
+Truffa contabile@ 100  
+Super Marco@ 100  
+Numero della cabala@ 100  
+Anno luce@ 100  
+Ferrovia ad alta velocità@ 100  
+Classifica senza fili@ 71  
+Scale di Hogwarts@ 100  
+Solleone sul lungomare@ 53  
+Tesla Motors@ 100  
+Sport intellettuali@ 100  
+DreamTeam Selection@ 100  
+Ordine pubblico@ 100  
+Pazza gioia@ 4  
+Gondola network@ 100  
+Copyright notice@ 30  
+Festival del GCD@ 100  
+Treni@ 100  
+Railway Schedule@ 70  
+Forgotten Pencil Case@ 100  
+Air Traffic Control@ 100  
+Lovely Cats@ 100  
+Unreadable Dates@ 100  
+Text Editor@ 100  
+Art Gallery Selection@ 65  
+The Kabbalah Returns@ 100  
+Persian Party@ 100  
+Compulsive Shopping@ 100  
+Corsa contro il tempo@ 100  
+Crittografia RSA@ 100  
+Lotteria di quadri@ 100  
+Grattacieli commemorativi@ 100  
+Cecilia e l'orticoltura@ 40  
+Sfida all'ultimo pangramma@ 72  
+Pila di monete@ 100  
+Murale@ 100  
+Biliardino@ 100  
+Dario e la Crew@ 0  
+Incontri inaspettati II@ 100  
+Fontana del Porcellino@ 100  
+Scavi fortunati@ 100  
+Tax avoidance@ 100  
+Save The Barrels@ 100  
+Funny Circuits@ 100  
+Permutazioni@ 100  
+Sfere numerate@ 0  
+Hasta Siempre, Comandante Chen Guevara!@ 100  
+Dangerous Flowers@ 100  
+Worst Exam Ever!@ 100  
+A Fair Rock Game@ 40  
+Lightweight Ladder@ 100  
+Board Game@ 100  
+Police Investigation@ 100  
+Pulsating Radars@ 100  
+Corsa Contro il Tempo 2@ 100  
+Forum Management@ 100  
+Find the Treasure@ 100  
+Ropes Escape@ 100  
+Late for Work@ 100  
+Camera dei Segreti@ 0  
+Circus Show@ 100  
+Pay That Box Again!@ 100  
+Splitting the Bill@ 100  
+Flood Forecasting@ 100  
+Exam Session@ 100  
+Graduation Card@ 100  
+Delivery Time@ 100  
+The Enigma of the Dungeon Cave@ 100  
+Tax Fraud Detection@ 100  
+Electrical Power Line@ 100  
+Pordenone Hill Sign@ 100  
+Subset Fight@ 100  
+Swimming Pool@ 100  
+Christmas Tree@ 100  
+Xorstanta@ 100  
+Password dimenticata@ 100  
+Mascherine sporche@ 100  
+Truffa al sushi@ 94  
+Reazione a candela@ 100  
+Ordine online@ 0  
+Pay That Box! Home Edition@ 100  
+Coin Change@ 100  
+Police Investigation 2@ 100  
+Crazy Roller Coaster@ 100  
+Passphrase Obfuscation@ 100  
+Count the Floors!@ 100  
+Do Not Gather!@ 100  
+Back to the Himalayas@ 100  
+Perfect Hyperrectangle@ 100  
+Improve the Team!@ 100  
+Guess The Sign@ 100  
+Johnnie Walker@ 30  
+Picarats Collection@ 100  
+Perfect Pizza@ 100  
+Second Dose@ 100  
+Smart Thermostat@ 100  
+Trending Topics@ 100  
+Buy 3, Pay for 2@ 100  
+Saturday Night Game@ 33  
+Moving Heavy Loads@ 100  
+Virus Sequencing@ 100  
+Productivity Prize@ 100  
+Pronounceable Words@ 100  
+Maybe you already know this problem@ 100  
+Memory exercises@ 100  
+Magic tree@ 50  
+Subtrees' mode@ 100  
+Implement a segment tree@ 100  
+Lowest Common Ancestor@ 100  
+Marathon Training@ 100  
+Multiselect@ 0  
+Map of Tasks@ 100  
+Musical Fight@ 100  
+VS-Movies Group@ 100  
+Weak Hash Function@ 91  
+Gita Turistica@ 15  
+Another Boring Problem@ 100  
+Quantum Brackets@ 100  
+Sand Buckets@ 100  
+Disk Failure@ 100  
+License Key Generator@ 0  
+Police Investigation 3@ 100  
+City Redevelopment@ 100  
+Rifiuti da riciclare@ 100  
+Smaltimento sostanze tossiche@ 100  
+Allenamento su ChinaForces@ 100  
+Evasione dall'armadio@ 100  
+Trova la permutazione@ 100  
+Aggiornamento della macchina virtuale@ 100  
+Beta Release@ 100  
+Christmas Balls@ 100  
+Disk Failure 2@ 100  
+Kalindrome Strings@ 100  
+Pub Encounter@ 100  
+Police Investigation 5@ 100  
+Investing in Stocks@ 100  
+Plowing Fields@ 51  
+Bitwise Party@ 100  
+Flappy Bird@ 100  
+Keyboard Shift@ 100  
+Training for the Marathon@ 100  
+Police Investigation 6@ 100  
+The Sieve of Eratosthenes@ 100  
+Wine Tasting Tour@ 100  
+Words, Just Words@ 100  
+Strange Constellations@ 100  
+Formula One Race@ 100  
+Game of the Goose@ 100  
+Quasi-Isogram@ 100  
+City Tour@ 100  
+Police Investigation 4@ 100  
+Solving Wordle@ 100  
+Trova la parità@ 100  
+Tieni aggiornato il catalogo@ 100  
+La camera dei cestini@ 100  
+Cammino minimo@ 100  
+Operazioni su array@ 100  
+Simple Calculator@ 61  
+Pordenone's Cyberspace@ 100  
+Police Investigation 7@ 100  
+Practical Jokes@ 100  
+Reading Papers@ 100  
+Drawing Slashes@ 100  
+Chess Tournament@ 100  
+Gelati costosi@ 100  
+Bustine di carte@ 100  
+Festa Estiva@ 100  
+Torta di Compleanno@ 100  
+Sui tetti di Pisa@ 100  
+Connect the Dots@ 100  
+Picnic's Table@ 100  
+Big Stonks@ 100  
+Trova la somma (fast input)@ 0  
+Indecisioni su array@ 100  
+Fuga da Varaždin@ 100  
+Formiche, che soggetto!@ 100  
+Comune di Alleib@ 100  
+Insiemi nell'armadio@ 100  
+Galleria d'arte@ 100  
+Episodio I: un acquisto difficile@ 100  
+Episodio II: un lungo viaggio@ 100  
+Episodio III: la coda per il buffet@ 100  
+Episodio IV: tracce di DNA@ 100  
+Halloween Candies@ 100  
+Palindromic Dreams@ 100  
+Monopoly Board Game@ 100  
+Panama Sum@ 100  
+Police Patrol@ 100  
+Grande Muraglia@ 100  
+Soste in autostrada@ 100  
+end
+LaviniaTornaghi
+All Possible Increasing Subsequences@ 100   
+Can you answer these queries III@ 100   
+Traffic Congestion@ 100   
+Trova il massimo@ 100   
+Campo minato@ 100   
+La dieta di Poldo@ 100   
+La congettura di Collatz@ 100   
+Salti spettacolari@ 100   
+Tè con gli amici@ 100   
+Trasporti pericolosi@ 100   
+Minimum spanning tree@ 100   
+Biglietti a Milano@ 100   
+Edoardo e la lotteria@ 100   
+Hello World!@ 100   
+Suffissi@ 100   
+Tris in solitaria@ 100   
+Fette di strudel@ 100   
+Pranzo dalla nonna@ 100   
+Previsioni meteorologiche@ 100   
+Menù giapponese@ 100   
+Terrazzamenti@ 100   
+Ordinamento a paletta@ 100   
+Truffa contabile@ 100   
+Super Marco@ 100   
+Numero della cabala@ 100   
+The Floor is Lava@ 100   
+Caesar Cypher@ 100   
+Department blackout@ 100   
+Saddest friend@ 100   
+Keylogger@ 100   
+Convegno aziendale@ 100   
+Sede Centrale@ 92   
+Festival del GCD@ 49   
+N-Restaurants@ 100   
+Forced Sales@ 100   
+Bus Trip@ 100   
+Treni@ 100   
+Forgotten Pencil Case@ 100   
+Air Traffic Control@ 100   
+Air Traffic Control II@ 100   
+Crittografia RSA@ 100   
+Lotteria di quadri@ 100   
+Murale@ 100   
+Dangerous Flowers@ 100   
+Worst Exam Ever!@ 100   
+Encrypted Contacts@ 100   
+Police Investigation@ 100   
+Pay That Box!@ 100   
+Find the Treasure@ 100   
+Ropes Escape@ 100   
+Exam Session@ 100   
+Delivery Time@ 100   
+Tax Fraud Detection@ 100   
+Electrical Power Line@ 100   
+Swimming Pool@ 100   
+Guess The Sign@ 100   
+Second Dose@ 100   
+Smart Thermostat@ 100   
+Buy 3, Pay for 2@ 100   
+Productivity Prize@ 100   
+Pronounceable Words@ 40   
+Subtrees' mode@ 100   
+Implement a segment tree@ 100   
+Lowest Common Ancestor@ 100   
+Musical Fight@ 100   
+Quantum Brackets@ 100   
+Sand Buckets@ 100   
+Disk Failure@ 100   
+Police Investigation 3@ 100   
+Pulizie d'autunno@ 100   
+Rifiuti da riciclare@ 100   
+Aggiornamento della macchina virtuale@ 100   
+Beta Release@ 100   
+Christmas Balls@ 100   
+Disk Failure 2@ 100   
+Kalindrome Strings@ 100   
+Pub Encounter@ 20   
+Police Investigation 5@ 100   
+Investing in Stocks@ 100   
+Flappy Bird@ 100   
+Keyboard Shift@ 100   
+Training for the Marathon@ 100   
+Police Investigation 6@ 100   
+Wine Tasting Tour@ 100   
+Game of the Goose@ 100   
+Quasi-Isogram@ 100   
+Training for the Marathon 2@ 25   
+Police Investigation 4@ 40   
+Solving Wordle@ 100   
+Trova la parità@ 100   
+Tieni aggiornato il catalogo@ 100   
+La camera dei cestini@ 100   
+Cammino minimo@ 100   
+Operazioni su array@ 100   
+Drawing Slashes@ 100   
+Chess Tournament@ 100   
+Gelati costosi@ 100   
+Bustine di carte@ 100   
+Festa Estiva@ 100   
+Sui tetti di Pisa@ 40   
+Connect the Dots@ 100   
+Fuga da Varaždin@ 100   
+Formiche, che soggetto!@ 100   
+Comune di Alleib@ 100   
+Insiemi nell'armadio@ 41   
+Galleria d'arte@ 55   
+Episodio I: un acquisto difficile@ 100   
+Episodio II: un lungo viaggio@ 100   
+Episodio III: la coda per il buffet@ 100   
+Halloween Candies@ 100   
+Monopoly Board Game@ 100   
+Panama Sum@ 100   
+Chess Tournament II@ 100   
+Vending Machines@ 100   
+Grande Muraglia@ 100   
+Soste in autostrada@ 100   
+end
+MatteoArcari
+Aliens@ 83   
+Place@ 100   
+All Possible Increasing Subsequences@ 100   
+Allenamento per la maratona@ 53   
+Scrivere senza staccare la matita dal foglio@ 100   
+Controllare l'accampamento@ 100   
+Flipping Coins@ 100   
+Multiples of 3@ 100   
+Can you answer these queries III@ 100   
+Salta il coniglietto@ 100   
+Massima sottostringa@ 100   
+Triangoli pienotti@ 100   
+Mozzarelle di bufala@ 100   
+Maree a Venezia@ 100   
+Spiedini di frutta@ 100   
+Trova il massimo@ 100   
+Trova la somma pari massima@ 100   
+Trova la somma pari massima v2.0@ 100   
+Alberi@ 100   
+Il triangolo@ 100   
+Tecnico pazzo@ 100   
+Mappa antica@ 100   
+Torri@ 100   
+La dieta di Poldo@ 100   
+Piastrellature@ 100   
+Corso per sommelier@ 100   
+La congettura di Collatz@ 100   
+Insieme K-free@ 100   
+Cubetti colorati@ 100   
+Topologia di rete@ 100   
+Fuga dagli inseguitori@ 100   
+Per un pugno di baht@ 100   
+Salti spettacolari@ 100   
+Collo di bottiglia@ 100   
+Minimum spanning tree@ 100   
+Rifornimenti ai distributori@ 100   
+Biglietti a Milano@ 100   
+Numeri di Figonacci@ 100   
+cAPS lOCK@ 100   
+Interrogazioni equilibrate@ 100   
+Tagli al personale@ 100   
+Matrice prima@ 100   
+Hello World!@ 100   
+Quadrati perfetti@ 100   
+Pile di mattoni@ 100   
+Ponti e isole@ 100   
+Oro, argento e bronzo@ 100   
+Finanza creativa@ 100   
+Allocazione di memoria@ 100   
+Pesci Mangioni@ 100   
+Duplicato mancante@ 100   
+Crittografia riflessa@ 100   
+Sunnydale@ 100   
+Viaggio in taxi@ 100   
+Allineamento magnetico@ 100   
+Espressione di parentesi@ 100   
+Piano degli studi@ 100   
+Congettura di Lollatz@ 100   
+Inviti alla festa@ 100   
+Tris in solitaria@ 100   
+Piroette@ 100   
+Fette di strudel@ 100   
+Assenza di gravità@ 100   
+Limiti di velocità@ 100   
+PaH TuNZ@ 100   
+Illuminazione di sala@ 100   
+Trampolino elastico@ 100   
+Torneo di rugby@ 100   
+Pranzo dalla nonna@ 100   
+Calcolatrice d'epoca@ 100   
+Fila di grattacieli@ 100   
+Nanga Parbat@ 100   
+Barbablu@ 100   
+Turni@ 100   
+Missioni segrete@ 100   
+Essenza per profumi@ 100   
+Depurazione dell'acqua@ 100   
+Domino massimale@ 100   
+Grandprix@ 100   
+Classifica@ 100   
+Rispetta i versi@ 100   
+Numero semiprimo@ 100   
+Monete complicate@ 100   
+Terrazzamenti@ 100   
+Torre di controllo@ 100   
+Ordinamento a paletta@ 100   
+Maxi-server@ 100   
+Controllo degli estintori@ 100   
+Las Vegas@ 100   
+Congettura di Bicollatz@ 100   
+Truffa contabile@ 100   
+Impila la pila@ 100   
+Super Marco@ 100   
+Numero della cabala@ 100   
+Super Marco 2@ 100   
+Pausa caffè@ 100   
+Giro in bici@ 100   
+Drop-It!@ 100   
+Anno luce@ 100   
+Discesa massima@ 100   
+La spartizione di Totò@ 100   
+Sentieri bollenti@ 100   
+Ferrovia ad alta velocità@ 100   
+Esame di maturità@ 100   
+Dijkstra@ 100   
+The Floor is Lava@ 100   
+Server Farm@ 100   
+Independent House@ 100   
+Wheel of Fortune@ 100   
+Scenic Walkway@ 100   
+But It Keeps Getting Faster@ 100   
+Array Partition@ 100   
+Tax Return@ 100   
+GitUbe Graph@ 100   
+Winning Strategies@ 84   
+Rescaling Sequence@ 100   
+Ma chi è quel mona?@ 100   
+Monete a posto@ 100   
+Somme costose@ 100   
+Sequenza di Pollatz@ 100   
+Tesla Motors@ 100   
+Crittografia LWF@ 100   
+Sport intellettuali@ 100   
+DreamTeam Selection@ 100   
+Science Against Spam@ 100   
+Citazioni nei paper@ 100   
+Studio amico@ 100   
+Decimal Fractions@ 90   
+Number Game@ 100   
+UEFA Coefficient@ 100   
+Oral exam@ 100   
+Water park@ 100   
+Convegno aziendale@ 100   
+Minisupplì@ 100   
+Festa di laurea@ 100   
+Piano di studi@ 100   
+Greedy Santa@ 100   
+Muffin Selection@ 100   
+N-Restaurants@ 100   
+Enigmath Machine@ 100   
+Bus Trip@ 100   
+Treni@ 100   
+Railway Schedule@ 100   
+Forgotten Pencil Case@ 100   
+Meal Tickets@ 100   
+Lovely Cats@ 100   
+Text Editor@ 100   
+Chief Executive Officer@ 100   
+Gasoline Stations@ 100   
+Crittografia RSA@ 100   
+Lotteria di quadri@ 100   
+Grattacieli commemorativi@ 100   
+Sfida all'ultimo pangramma@ 33   
+Murale@ 100   
+Scavi fortunati@ 100   
+Making boxes@ 100   
+Tax avoidance@ 100   
+Bases Conversion@ 100   
+Improving Grades@ 100   
+Compulsive Smartphone Shopping@ 100   
+Secret Meeting@ 100   
+Worst Exam Ever!@ 100   
+Cultural Events@ 100   
+Exam Room@ 100   
+IP Address@ 100   
+Encrypted Contacts@ 100   
+Halloween Candies@ 100   
+Lightweight Ladder@ 100   
+Police Investigation@ 100   
+Pay That Box!@ 100   
+Find the Treasure@ 100   
+A Tantrum with Consequences@ 100   
+Ropes Escape@ 100   
+Late for Work@ 100   
+Camera dei Segreti@ 25   
+Circus Show@ 100   
+Pay That Box Again!@ 100   
+Splitting the Bill@ 100   
+Flood Forecasting@ 100   
+Graduation Card@ 100   
+Delivery Time@ 100   
+Tax Fraud Detection@ 100   
+Electrical Power Line@ 100   
+Swimming Pool@ 100   
+Emoji di compleanno@ 30   
+Coin Change@ 100   
+Police Investigation 2@ 100   
+Passphrase Obfuscation@ 100   
+Do Not Gather!@ 100   
+Perfect Hyperrectangle@ 100   
+Improve the Team!@ 100   
+Guess The Sign@ 100   
+Perfect Pizza@ 100   
+Second Dose@ 100   
+Smart Thermostat@ 100   
+Trending Topics@ 100   
+Buy 3, Pay for 2@ 100   
+Virus Sequencing@ 100   
+Productivity Prize@ 100   
+Pronounceable Words@ 100   
+Maybe you already know this problem@ 100   
+Subtrees' mode@ 25   
+Implement a segment tree@ 100   
+Lowest Common Ancestor@ 75   
+Chimney Service@ 0   
+Marathon Training@ 100   
+Quantum Brackets@ 100   
+Sand Buckets@ 100   
+Disk Failure@ 100   
+Police Investigation 3@ 100   
+Pulizie d'autunno@ 100   
+Rifiuti da riciclare@ 100   
+Foglietto illustrativo@ 38   
+Allenamento su ChinaForces@ 58   
+Aggiornamento della macchina virtuale@ 100   
+Beta Release@ 100   
+Christmas Balls@ 100   
+Disk Failure 2@ 100   
+Kalindrome Strings@ 100   
+Police Investigation 5@ 100   
+Investing in Stocks@ 100   
+Flappy Bird@ 100   
+Keyboard Shift@ 100   
+Police Investigation 6@ 100   
+The Sieve of Eratosthenes@ 50   
+Words, Just Words@ 100   
+Strange Constellations@ 100   
+Game of the Goose@ 100   
+Quasi-Isogram@ 100   
+Police Investigation 4@ 100   
+Solving Wordle@ 100   
+Trova la parità@ 100   
+Tieni aggiornato il catalogo@ 100   
+La camera dei cestini@ 100   
+Cammino minimo@ 100   
+Operazioni su array@ 100   
+Police Investigation 7@ 100   
+Practical Jokes@ 25   
+Reading Papers@ 100   
+Drawing Slashes@ 100   
+Chess Tournament@ 100   
+Gelati costosi@ 100   
+Bustine di carte@ 100   
+Festa Estiva@ 100   
+Torta di Compleanno@ 100   
+Sui tetti di Pisa@ 100   
+Glassworks@ 60   
+Connect the Dots@ 100   
+Plagiarism Detection@ 100   
+Chi cerchia trova@ 100   
+Indecisioni su array@ 100   
+Fuga da Varaždin@ 100   
+Formiche, che soggetto!@ 100   
+Comune di Alleib@ 100   
+Insiemi nell'armadio@ 100   
+Episodio I: un acquisto difficile@ 100   
+Episodio II: un lungo viaggio@ 100   
+Episodio IV: tracce di DNA@ 21   
+Palindromic Dreams@ 100   
+Monopoly Board Game@ 100   
+Panama Sum@ 100   
+Police Patrol@ 100   
+Chess Tournament II@ 100   
+Vending Machines@ 100   
+Grande Muraglia@ 100   
+Tris in solitaria 2@ 100   
+Soste in autostrada@ 100   
+end
+Argon18
+La battaglia del convoglio@ 100   
+Place@ 100   
+Entscheidungsproblem@ 100   
+Allenamento per la maratona@ 100   
+Scrivere senza staccare la matita dal foglio@ 40   
+Flipping Coins@ 100   
+Multiples of 3@ 100   
+Can you answer these queries III@ 100   
+Salta il coniglietto@ 100   
+Mattia e i suoi vasi@ 100   
+Mattia e i suoi vasi 2.0@ 100   
+Spiedini di frutta@ 100   
+Trova il massimo@ 100   
+Trova la somma pari massima@ 100   
+Trova la somma pari massima v2.0@ 100   
+Il triangolo@ 100   
+La dieta di Poldo@ 100   
+Numeri antipatici@ 100   
+Accensione dei PC@ 100   
+Minimum spanning tree@ 100   
+Biglietti a Milano@ 100   
+Interrogazioni equilibrate@ 100   
+Edoardo e la lotteria@ 100   
+Tris in solitaria@ 100   
+Fette di strudel@ 100   
+Pranzo dalla nonna@ 100   
+Incendia lo trabucco@ 100   
+Torre di controllo@ 100   
+Ordinamento a paletta@ 100   
+Nemico mortale@ 100   
+Truffa contabile@ 100   
+Super Marco@ 100   
+Numero della cabala@ 100   
+Anno luce@ 100   
+Ferrovia ad alta velocità@ 100   
+Classifica senza fili@ 71   
+Scale di Hogwarts@ 100   
+Solleone sul lungomare@ 53   
+Tesla Motors@ 100   
+Sport intellettuali@ 100   
+DreamTeam Selection@ 100   
+Ordine pubblico@ 100   
+Pazza gioia@ 4   
+Gondola network@ 100   
+Copyright notice@ 30   
+Festival del GCD@ 100   
+Treni@ 100   
+Railway Schedule@ 70   
+Forgotten Pencil Case@ 100   
+Air Traffic Control@ 100   
+Lovely Cats@ 100   
+Unreadable Dates@ 100   
+Text Editor@ 100   
+Art Gallery Selection@ 65   
+The Kabbalah Returns@ 100   
+Persian Party@ 100   
+Compulsive Shopping@ 100   
+Corsa contro il tempo@ 100   
+Crittografia RSA@ 100   
+Lotteria di quadri@ 100   
+Grattacieli commemorativi@ 100   
+Cecilia e l'orticoltura@ 40   
+Sfida all'ultimo pangramma@ 72   
+Pila di monete@ 100   
+Murale@ 100   
+Biliardino@ 100   
+Dario e la Crew@ 0   
+Incontri inaspettati II@ 100   
+Fontana del Porcellino@ 100   
+Scavi fortunati@ 100   
+Tax avoidance@ 100   
+Save The Barrels@ 100   
+Funny Circuits@ 100   
+Permutazioni@ 100   
+Sfere numerate@ 0   
+Hasta Siempre, Comandante Chen Guevara!@ 100   
+Dangerous Flowers@ 100   
+Worst Exam Ever!@ 100   
+A Fair Rock Game@ 40   
+Lightweight Ladder@ 100   
+Board Game@ 100   
+Police Investigation@ 100   
+Pulsating Radars@ 100   
+Corsa Contro il Tempo 2@ 100   
+Forum Management@ 100   
+Find the Treasure@ 100   
+Ropes Escape@ 100   
+Late for Work@ 100   
+Camera dei Segreti@ 0   
+Circus Show@ 100   
+Pay That Box Again!@ 100   
+Splitting the Bill@ 100   
+Flood Forecasting@ 100   
+Exam Session@ 100   
+Graduation Card@ 100   
+Delivery Time@ 100   
+The Enigma of the Dungeon Cave@ 100   
+Tax Fraud Detection@ 100   
+Electrical Power Line@ 100   
+Pordenone Hill Sign@ 100   
+Subset Fight@ 100   
+Swimming Pool@ 100   
+Christmas Tree@ 100   
+Xorstanta@ 100   
+Password dimenticata@ 100   
+Mascherine sporche@ 100   
+Truffa al sushi@ 94   
+Reazione a candela@ 100   
+Ordine online@ 0   
+Pay That Box! Home Edition@ 100   
+Coin Change@ 100   
+Police Investigation 2@ 100   
+Crazy Roller Coaster@ 100   
+Passphrase Obfuscation@ 100   
+Count the Floors!@ 100   
+Do Not Gather!@ 100   
+Back to the Himalayas@ 100   
+Perfect Hyperrectangle@ 100   
+Improve the Team!@ 100   
+Guess The Sign@ 100   
+Johnnie Walker@ 30   
+Picarats Collection@ 100   
+Perfect Pizza@ 100   
+Second Dose@ 100   
+Smart Thermostat@ 100   
+Trending Topics@ 100   
+Buy 3, Pay for 2@ 100   
+Saturday Night Game@ 33   
+Moving Heavy Loads@ 100   
+Virus Sequencing@ 100   
+Productivity Prize@ 100   
+Pronounceable Words@ 100   
+Maybe you already know this problem@ 100   
+Memory exercises@ 100   
+Magic tree@ 50   
+Subtrees' mode@ 100   
+Implement a segment tree@ 100   
+Lowest Common Ancestor@ 100   
+Marathon Training@ 100   
+Multiselect@ 0   
+Map of Tasks@ 100   
+Musical Fight@ 100   
+VS-Movies Group@ 100   
+Weak Hash Function@ 91   
+Gita Turistica@ 15   
+Another Boring Problem@ 100   
+Quantum Brackets@ 100   
+Sand Buckets@ 100   
+Disk Failure@ 100   
+License Key Generator@ 0   
+Police Investigation 3@ 100   
+City Redevelopment@ 100   
+Rifiuti da riciclare@ 100   
+Smaltimento sostanze tossiche@ 100   
+Allenamento su ChinaForces@ 100   
+Evasione dall'armadio@ 100   
+Trova la permutazione@ 100   
+Aggiornamento della macchina virtuale@ 100   
+Beta Release@ 100   
+Christmas Balls@ 100   
+Disk Failure 2@ 100   
+Kalindrome Strings@ 100   
+Pub Encounter@ 100   
+Police Investigation 5@ 100   
+Investing in Stocks@ 100   
+Plowing Fields@ 51   
+Bitwise Party@ 100   
+Flappy Bird@ 100   
+Keyboard Shift@ 100   
+Training for the Marathon@ 100   
+Police Investigation 6@ 100   
+The Sieve of Eratosthenes@ 100   
+Wine Tasting Tour@ 100   
+Words, Just Words@ 100   
+Strange Constellations@ 100   
+Formula One Race@ 100   
+Game of the Goose@ 100   
+Quasi-Isogram@ 100   
+City Tour@ 100   
+Police Investigation 4@ 100   
+Solving Wordle@ 100   
+Trova la parità@ 100   
+Tieni aggiornato il catalogo@ 100   
+La camera dei cestini@ 100   
+Cammino minimo@ 100   
+Operazioni su array@ 100   
+Simple Calculator@ 61   
+Pordenone's Cyberspace@ 100   
+Police Investigation 7@ 100   
+Practical Jokes@ 100   
+Reading Papers@ 100   
+Drawing Slashes@ 100   
+Chess Tournament@ 100   
+Gelati costosi@ 100   
+Bustine di carte@ 100   
+Festa Estiva@ 100   
+Torta di Compleanno@ 100   
+Sui tetti di Pisa@ 100   
+Connect the Dots@ 100   
+Picnic's Table@ 100   
+Big Stonks@ 100   
+Trova la somma (fast input)@ 0   
+Indecisioni su array@ 100   
+Fuga da Varaždin@ 100   
+Formiche, che soggetto!@ 100   
+Comune di Alleib@ 100   
+Insiemi nell'armadio@ 100   
+Galleria d'arte@ 100   
+Episodio I: un acquisto difficile@ 100   
+Episodio II: un lungo viaggio@ 100   
+Episodio III: la coda per il buffet@ 100   
+Episodio IV: tracce di DNA@ 100   
+Halloween Candies@ 100   
+Palindromic Dreams@ 100   
+Monopoly Board Game@ 100   
+Panama Sum@ 100   
+Police Patrol@ 100   
+Grande Muraglia@ 100   
+Soste in autostrada@ 100   
+end
+LaMatematica14
+Scrivere senza staccare la matita dal foglio@ 30   
+Controllare l'accampamento@ 100   
+Flipping Coins@ 100   
+Multiples of 3@ 100   
+Can you answer these queries III@ 100   
+Trova la somma pari massima v2.0@ 100   
+Salti spettacolari@ 100   
+Biglietti a Milano@ 100   
+Finanza creativa@ 10   
+Gioco del tris@ 40   
+Tris in solitaria@ 100   
+Pranzo dalla nonna@ 100   
+Terrazzamenti@ 100   
+Ordinamento a paletta@ 100   
+Truffa contabile@ 100   
+Super Marco@ 100   
+Numero della cabala@ 100   
+Esame di maturità@ 100   
+Rescaling Sequence@ 100   
+Crittografia LWF@ 100   
+Studio amico@ 100   
+Water park@ 100   
+Convegno aziendale@ 100   
+Minisupplì@ 100   
+Festa di laurea@ 100   
+Sushi variegato@ 0   
+Treni@ 100   
+Railway Schedule@ 45   
+Corsa contro il tempo@ 100   
+Crittografia RSA@ 100   
+Lotteria di quadri@ 100   
+Kill Those Bugs!@ 0   
+Improving Grades@ 100   
+Compulsive Smartphone Shopping@ 100   
+Secret Meeting@ 100   
+Police Investigation@ 100   
+Corsa Contro il Tempo 2@ 100   
+Find the Treasure@ 100   
+Exam Session@ 100   
+Delivery Time@ 100   
+Electrical Power Line@ 100   
+Swimming Pool@ 100   
+Xorstanta@ 0   
+Truffa al sushi@ 69   
+Emoji di compleanno@ 0   
+Police Investigation 2@ 100   
+Passphrase Obfuscation@ 100   
+Do Not Gather!@ 100   
+Perfect Hyperrectangle@ 100   
+Guess The Sign@ 100   
+Johnnie Walker@ 0   
+Perfect Pizza@ 100   
+Second Dose@ 100   
+Smart Thermostat@ 100   
+Buy 3, Pay for 2@ 100   
+Productivity Prize@ 100   
+Implement a segment tree@ 100   
+Another Boring Problem@ 0   
+Quantum Brackets@ 100   
+Sand Buckets@ 100   
+Disk Failure@ 100   
+Police Investigation 3@ 100   
+Evasione dall'armadio@ 45   
+Trova la permutazione@ 100   
+Aggiornamento della macchina virtuale@ 100   
+Beta Release@ 100   
+Disk Failure 2@ 100   
+Kalindrome Strings@ 100   
+Pub Encounter@ 20   
+Police Investigation 5@ 100   
+Investing in Stocks@ 100   
+Plowing Fields@ 50   
+Flappy Bird@ 100   
+Keyboard Shift@ 100   
+Police Investigation 6@ 100   
+Sorting Proximity@ 0   
+Wine Tasting Tour@ 50   
+Words, Just Words@ 100   
+Strange Constellations@ 100   
+Game of the Goose@ 100   
+Quasi-Isogram@ 100   
+City Tour@ 0   
+Police Investigation 4@ 100   
+Solving Wordle@ 100   
+Trova la parità@ 100   
+Tieni aggiornato il catalogo@ 100   
+La camera dei cestini@ 100   
+Cammino minimo@ 100   
+Trova il massimo@ 100   
+Operazioni su array@ 100   
+Simple Calculator@ 86   
+Police Investigation 7@ 39   
+Practical Jokes@ 10   
+Reading Papers@ 100   
+Drawing Slashes@ 100   
+Chess Tournament@ 100   
+Gelati costosi@ 100   
+Bustine di carte@ 100   
+Festa Estiva@ 100   
+Torta di Compleanno@ 0   
+Sui tetti di Pisa@ 100   
+Best Ice Cream Flavours@ 0   
+Connect the Dots@ 100   
+Picnic's Table@ 100   
+Plagiarism Detection@ 0   
+Chi cerchia trova@ 0   
+Indecisioni su array@ 9   
+Formiche, che soggetto!@ 34   
+Comune di Alleib@ 100   
+Insiemi nell'armadio@ 62   
+Galleria d'arte@ 55   
+Episodio I: un acquisto difficile@ 100   
+Episodio III: la coda per il buffet@ 100   
+Episodio IV: tracce di DNA@ 20   
+Halloween Candies@ 100   
+Palindromic Dreams@ 100   
+Lost in Dristor 2@ 35   
+Monopoly Board Game@ 100   
+Panama Sum@ 100   
+Chess Tournament II@ 100   
+Vending Machines@ 100   
+Grande Muraglia@ 100   
+Tris in solitaria 2@ 100   
+Soste in autostrada@ 100   
+end
+jamesbamber
+Can you answer these queries III@ 100    
+Taglialegna@ 14    
+Biglietti a Milano@ 100    
+Tris in solitaria@ 100    
+Fette di strudel@ 100    
+Pranzo dalla nonna@ 100    
+Ordinamento a paletta@ 100    
+Truffa contabile@ 100    
+Super Marco@ 100    
+Numero della cabala@ 100    
+Hashtag Yoda@ 100    
+Dijkstra@ 90    
+Classifica senza fili@ 100    
+Somme costose@ 100    
+Sport intellettuali@ 100    
+Olympic cake@ 100    
+Sushi variegato@ 100    
+Treni@ 100    
+Crittografia RSA@ 100    
+Lotteria di quadri@ 100    
+Murale@ 100    
+Sushi bar@ 100    
+Bases Conversion@ 100    
+Dangerous Flowers@ 100    
+Police Investigation@ 100    
+Corsa Contro il Tempo 2@ 100    
+Find the Treasure@ 100    
+Late for Work@ 100    
+Pay That Box Again!@ 100    
+Graduation Card@ 100    
+Delivery Time@ 100    
+Tax Fraud Detection@ 100    
+Electrical Power Line@ 100    
+Swimming Pool@ 100    
+Christmas Tree@ 100    
+Truffa al sushi@ 49    
+Plan for the Worst!@ 100    
+Coin Change@ 100    
+Delayed Signals@ 100    
+Quantum Magic@ 42    
+Crazy Roller Coaster@ 15    
+Back to the Himalayas@ 100    
+Perfect Hyperrectangle@ 100    
+Prime Pancakes@ 100    
+Johnnie Walker@ 30    
+Subtrees' mode@ 100    
+Implement a segment tree@ 100    
+Lowest Common Ancestor@ 100    
+Disk Failure@ 100    
+Pulizie d'autunno@ 58    
+Rifiuti da riciclare@ 14    
+Foglietto illustrativo@ 21    
+Christmas Balls@ 100    
+Disk Failure 2@ 100    
+Pub Encounter@ 100    
+Investing in Stocks@ 100    
+Flappy Bird@ 100    
+Keyboard Shift@ 100    
+Wine Tasting Tour@ 100    
+Words, Just Words@ 100    
+Game of the Goose@ 100    
+Quasi-Isogram@ 100    
+City Tour@ 100    
+Solving Wordle@ 100    
+Trova la parità@ 100    
+Tieni aggiornato il catalogo@ 100    
+La camera dei cestini@ 100    
+Cammino minimo@ 100    
+Trova il massimo@ 100    
+Operazioni su array@ 100    
+Simple Calculator@ 82    
+Color the Points@ 100    
+Pordenone's Cyberspace@ 100    
+Police Investigation 7@ 52    
+Drawing Slashes@ 100    
+Chess Tournament@ 100    
+Gelati costosi@ 100    
+Bustine di carte@ 100    
+Festa Estiva@ 100    
+Torta di Compleanno@ 100    
+Sui tetti di Pisa@ 100    
+Connect the Dots@ 100    
+Big Stonks@ 100    
+Fuga da Varaždin@ 100    
+Formiche, che soggetto!@ 100    
+Comune di Alleib@ 100    
+Insiemi nell'armadio@ 62    
+Galleria d'arte@ 100    
+Episodio I: un acquisto difficile@ 100    
+Episodio II: un lungo viaggio@ 82    
+Episodio III: la coda per il buffet@ 100    
+Episodio IV: tracce di DNA@ 100    
+Halloween Candies@ 100    
+Palindromic Dreams@ 100    
+Lost in Dristor 2@ 100    
+Monopoly Board Game@ 100    
+Panama Sum@ 100    
+Police Patrol@ 100    
+Chess Tournament II@ 100    
+Vending Machines@ 100    
+end
+utente2
+All Possible Increasing Subsequences@ 100     
+Flipping Coins@ 5     
+Can you answer these queries III@ 100     
+Traffic Congestion@ 100     
+Trova il massimo@ 100     
+Trova la somma pari massima v2.0@ 90     
+Campo minato@ 100     
+La congettura di Collatz@ 100     
+Salti spettacolari@ 100     
+Tè con gli amici@ 50     
+Trasporti pericolosi@ 100     
+Biglietti a Milano@ 100     
+Hello World!@ 100     
+Tris in solitaria@ 0     
+Fette di strudel@ 100     
+Previsioni meteorologiche@ 100     
+Terrazzamenti@ 100     
+Ordinamento a paletta@ 100     
+Truffa contabile@ 100     
+Dijkstra@ 0     
+Apple juice challenge@ 0     
+Sede Centrale@ 92     
+Greedy Santa@ 50     
+N-Restaurants@ 100     
+Forced Sales@ 100     
+Treni@ 100     
+Forgotten Pencil Case@ 15     
+Air Traffic Control@ 100     
+Crittografia RSA@ 100     
+Murale@ 60     
+Dangerous Flowers@ 100     
+Electrical Power Line@ 0     
+Reazione a candela@ 26     
+Emoji di compleanno@ 0     
+Coin Change@ 0     
+Guess The Sign@ 100     
+Smart Thermostat@ 100     
+Buy 3, Pay for 2@ 100     
+Productivity Prize@ 100     
+Subtrees' mode@ 50     
+Implement a segment tree@ 0     
+Lowest Common Ancestor@ 75     
+Sand Buckets@ 100     
+Pulizie d'autunno@ 100     
+Rifiuti da riciclare@ 5     
+Pub Encounter@ 20     
+Police Investigation 5@ 100     
+Flappy Bird@ 100     
+Training for the Marathon@ 45     
+Police Investigation 6@ 100     
+Bustine di carte@ 100     
+Connect the Dots@ 100     
+Fuga da Varaždin@ 100     
+Comune di Alleib@ 100     
+Insiemi nell'armadio@ 41     
+Galleria d'arte@ 55     
+Episodio I: un acquisto difficile@ 0     
+Panama Sum@ 100     
+Police Patrol@ 10     
+Chess Tournament II@ 100     
+Vending Machines@ 0     
+Grande Muraglia@ 100     
+Soste in autostrada@ 0     
+end
+LaviniaTornaghi
+All Possible Increasing Subsequences@ 100     
+Can you answer these queries III@ 100     
+Traffic Congestion@ 100     
+Trova il massimo@ 100     
+Campo minato@ 100     
+La dieta di Poldo@ 100     
+La congettura di Collatz@ 100     
+Salti spettacolari@ 100     
+Tè con gli amici@ 100     
+Trasporti pericolosi@ 100     
+Minimum spanning tree@ 100     
+Biglietti a Milano@ 100     
+Edoardo e la lotteria@ 100     
+Hello World!@ 100     
+Suffissi@ 100     
+Tris in solitaria@ 100     
+Fette di strudel@ 100     
+Pranzo dalla nonna@ 100     
+Previsioni meteorologiche@ 100     
+Menù giapponese@ 100     
+Terrazzamenti@ 100     
+Ordinamento a paletta@ 100     
+Truffa contabile@ 100     
+Super Marco@ 100     
+Numero della cabala@ 100     
+The Floor is Lava@ 100     
+Caesar Cypher@ 100     
+Department blackout@ 100     
+Saddest friend@ 100     
+Keylogger@ 100     
+Convegno aziendale@ 100     
+Sede Centrale@ 92     
+Festival del GCD@ 49     
+N-Restaurants@ 100     
+Forced Sales@ 100     
+Bus Trip@ 100     
+Treni@ 100     
+Forgotten Pencil Case@ 100     
+Air Traffic Control@ 100     
+Air Traffic Control II@ 100     
+Crittografia RSA@ 100     
+Lotteria di quadri@ 100     
+Murale@ 100     
+Dangerous Flowers@ 100     
+Worst Exam Ever!@ 100     
+Encrypted Contacts@ 100     
+Police Investigation@ 100     
+Pay That Box!@ 100     
+Find the Treasure@ 100     
+Ropes Escape@ 100     
+Exam Session@ 100     
+Delivery Time@ 100     
+Tax Fraud Detection@ 100     
+Electrical Power Line@ 100     
+Swimming Pool@ 100     
+Guess The Sign@ 100     
+Second Dose@ 100     
+Smart Thermostat@ 100     
+Buy 3, Pay for 2@ 100     
+Productivity Prize@ 100     
+Pronounceable Words@ 40     
+Subtrees' mode@ 100     
+Implement a segment tree@ 100     
+Lowest Common Ancestor@ 100     
+Musical Fight@ 100     
+Quantum Brackets@ 100     
+Sand Buckets@ 100     
+Disk Failure@ 100     
+Police Investigation 3@ 100     
+Pulizie d'autunno@ 100     
+Rifiuti da riciclare@ 100     
+Aggiornamento della macchina virtuale@ 100     
+Beta Release@ 100     
+Christmas Balls@ 100     
+Disk Failure 2@ 100     
+Kalindrome Strings@ 100     
+Pub Encounter@ 20     
+Police Investigation 5@ 100     
+Investing in Stocks@ 100     
+Flappy Bird@ 100     
+Keyboard Shift@ 100     
+Training for the Marathon@ 100     
+Police Investigation 6@ 100     
+Wine Tasting Tour@ 100     
+Game of the Goose@ 100     
+Quasi-Isogram@ 100     
+Training for the Marathon 2@ 25     
+Police Investigation 4@ 40     
+Solving Wordle@ 100     
+Trova la parità@ 100     
+Tieni aggiornato il catalogo@ 100     
+La camera dei cestini@ 100     
+Cammino minimo@ 100     
+Operazioni su array@ 100     
+Drawing Slashes@ 100     
+Chess Tournament@ 100     
+Gelati costosi@ 100     
+Bustine di carte@ 100     
+Festa Estiva@ 100     
+Sui tetti di Pisa@ 40     
+Connect the Dots@ 100     
+Fuga da Varaždin@ 100     
+Formiche, che soggetto!@ 100     
+Comune di Alleib@ 100     
+Insiemi nell'armadio@ 41     
+Galleria d'arte@ 55     
+Episodio I: un acquisto difficile@ 100     
+Episodio II: un lungo viaggio@ 100     
+Episodio III: la coda per il buffet@ 100     
+Halloween Candies@ 100     
+Monopoly Board Game@ 100     
+Panama Sum@ 100     
+Chess Tournament II@ 100     
+Vending Machines@ 100     
+Grande Muraglia@ 100     
+end
+MatteoArcari
+Aliens@ 83     
+Place@ 100     
+All Possible Increasing Subsequences@ 100     
+Allenamento per la maratona@ 53     
+Scrivere senza staccare la matita dal foglio@ 100     
+Controllare l'accampamento@ 100     
+Flipping Coins@ 100     
+Multiples of 3@ 100     
+Can you answer these queries III@ 100     
+Salta il coniglietto@ 100     
+Massima sottostringa@ 100     
+Triangoli pienotti@ 100     
+Mozzarelle di bufala@ 100     
+Maree a Venezia@ 100     
+Spiedini di frutta@ 100     
+Trova il massimo@ 100     
+Trova la somma pari massima@ 100     
+Trova la somma pari massima v2.0@ 100     
+Alberi@ 100     
+Il triangolo@ 100     
+Tecnico pazzo@ 100     
+Mappa antica@ 100     
+Torri@ 100     
+La dieta di Poldo@ 100     
+Piastrellature@ 100     
+Corso per sommelier@ 100     
+La congettura di Collatz@ 100     
+Insieme K-free@ 100     
+Cubetti colorati@ 100     
+Topologia di rete@ 100     
+Fuga dagli inseguitori@ 100     
+Per un pugno di baht@ 100     
+Salti spettacolari@ 100     
+Collo di bottiglia@ 100     
+Minimum spanning tree@ 100     
+Rifornimenti ai distributori@ 100     
+Biglietti a Milano@ 100     
+Numeri di Figonacci@ 100     
+cAPS lOCK@ 100     
+Interrogazioni equilibrate@ 100     
+Tagli al personale@ 100     
+Matrice prima@ 100     
+Hello World!@ 100     
+Quadrati perfetti@ 100     
+Pile di mattoni@ 100     
+Ponti e isole@ 100     
+Oro, argento e bronzo@ 100     
+Finanza creativa@ 100     
+Allocazione di memoria@ 100     
+Pesci Mangioni@ 100     
+Duplicato mancante@ 100     
+Crittografia riflessa@ 100     
+Sunnydale@ 100     
+Viaggio in taxi@ 100     
+Allineamento magnetico@ 100     
+Espressione di parentesi@ 100     
+Piano degli studi@ 100     
+Congettura di Lollatz@ 100     
+Inviti alla festa@ 100     
+Tris in solitaria@ 100     
+Piroette@ 100     
+Fette di strudel@ 100     
+Assenza di gravità@ 100     
+Limiti di velocità@ 100     
+PaH TuNZ@ 100     
+Illuminazione di sala@ 100     
+Trampolino elastico@ 100     
+Torneo di rugby@ 100     
+Pranzo dalla nonna@ 100     
+Calcolatrice d'epoca@ 100     
+Fila di grattacieli@ 100     
+Nanga Parbat@ 100     
+Barbablu@ 100     
+Turni@ 100     
+Missioni segrete@ 100     
+Essenza per profumi@ 100     
+Depurazione dell'acqua@ 100     
+Domino massimale@ 100     
+Grandprix@ 100     
+Classifica@ 100     
+Rispetta i versi@ 100     
+Numero semiprimo@ 100     
+Monete complicate@ 100     
+Terrazzamenti@ 100     
+Torre di controllo@ 100     
+Ordinamento a paletta@ 100     
+Maxi-server@ 100     
+Controllo degli estintori@ 100     
+Las Vegas@ 100     
+Congettura di Bicollatz@ 100     
+Truffa contabile@ 100     
+Impila la pila@ 100     
+Super Marco@ 100     
+Numero della cabala@ 100     
+Super Marco 2@ 100     
+Pausa caffè@ 100     
+Giro in bici@ 100     
+Drop-It!@ 100     
+Anno luce@ 100     
+Discesa massima@ 100     
+La spartizione di Totò@ 100     
+Sentieri bollenti@ 100     
+Ferrovia ad alta velocità@ 100     
+Esame di maturità@ 100     
+Dijkstra@ 100     
+The Floor is Lava@ 100     
+Server Farm@ 100     
+Independent House@ 100     
+Wheel of Fortune@ 100     
+Scenic Walkway@ 100     
+But It Keeps Getting Faster@ 100     
+Array Partition@ 100     
+Tax Return@ 100     
+GitUbe Graph@ 100     
+Winning Strategies@ 84     
+Rescaling Sequence@ 100     
+Ma chi è quel mona?@ 100     
+Monete a posto@ 100     
+Somme costose@ 100     
+Sequenza di Pollatz@ 100     
+Tesla Motors@ 100     
+Crittografia LWF@ 100     
+Sport intellettuali@ 100     
+DreamTeam Selection@ 100     
+Science Against Spam@ 100     
+Citazioni nei paper@ 100     
+Studio amico@ 100     
+Decimal Fractions@ 90     
+Number Game@ 100     
+UEFA Coefficient@ 100     
+Oral exam@ 100     
+Water park@ 100     
+Convegno aziendale@ 100     
+Minisupplì@ 100     
+Festa di laurea@ 100     
+Piano di studi@ 100     
+Greedy Santa@ 100     
+Muffin Selection@ 100     
+N-Restaurants@ 100     
+Enigmath Machine@ 100     
+Bus Trip@ 100     
+Treni@ 100     
+Railway Schedule@ 100     
+Forgotten Pencil Case@ 100     
+Meal Tickets@ 100     
+Lovely Cats@ 100     
+Text Editor@ 100     
+Chief Executive Officer@ 100     
+Gasoline Stations@ 100     
+Crittografia RSA@ 100     
+Lotteria di quadri@ 100     
+Grattacieli commemorativi@ 100     
+Sfida all'ultimo pangramma@ 33     
+Murale@ 100     
+Scavi fortunati@ 100     
+Making boxes@ 100     
+Tax avoidance@ 100     
+Bases Conversion@ 100     
+Improving Grades@ 100     
+Compulsive Smartphone Shopping@ 100     
+Secret Meeting@ 100     
+Worst Exam Ever!@ 100     
+Cultural Events@ 100     
+Exam Room@ 100     
+IP Address@ 100     
+Encrypted Contacts@ 100     
+Halloween Candies@ 100     
+Lightweight Ladder@ 100     
+Police Investigation@ 100     
+Pay That Box!@ 100     
+Find the Treasure@ 100     
+A Tantrum with Consequences@ 100     
+Ropes Escape@ 100     
+Late for Work@ 100     
+Camera dei Segreti@ 25     
+Circus Show@ 100     
+Pay That Box Again!@ 100     
+Splitting the Bill@ 100     
+Flood Forecasting@ 100     
+Graduation Card@ 100     
+Delivery Time@ 100     
+Tax Fraud Detection@ 100     
+Electrical Power Line@ 100     
+Swimming Pool@ 100     
+Emoji di compleanno@ 30     
+Coin Change@ 100     
+Police Investigation 2@ 100     
+Passphrase Obfuscation@ 100     
+Do Not Gather!@ 100     
+Perfect Hyperrectangle@ 100     
+Improve the Team!@ 100     
+Guess The Sign@ 100     
+Perfect Pizza@ 100     
+Second Dose@ 100     
+Smart Thermostat@ 100     
+Trending Topics@ 100     
+Buy 3, Pay for 2@ 100     
+Virus Sequencing@ 100     
+Productivity Prize@ 100     
+Pronounceable Words@ 100     
+Maybe you already know this problem@ 100     
+Subtrees' mode@ 25     
+Implement a segment tree@ 100     
+Lowest Common Ancestor@ 75     
+Chimney Service@ 0     
+Marathon Training@ 100     
+Quantum Brackets@ 100     
+Sand Buckets@ 100     
+Disk Failure@ 100     
+Police Investigation 3@ 100     
+Pulizie d'autunno@ 100     
+Rifiuti da riciclare@ 100     
+Foglietto illustrativo@ 38     
+Allenamento su ChinaForces@ 58     
+Aggiornamento della macchina virtuale@ 100     
+Beta Release@ 100     
+Christmas Balls@ 100     
+Disk Failure 2@ 100     
+Kalindrome Strings@ 100     
+Police Investigation 5@ 100     
+Investing in Stocks@ 100     
+Flappy Bird@ 100     
+Keyboard Shift@ 100     
+Police Investigation 6@ 100     
+The Sieve of Eratosthenes@ 50     
+Words, Just Words@ 100     
+Strange Constellations@ 100     
+Game of the Goose@ 100     
+Quasi-Isogram@ 100     
+Police Investigation 4@ 100     
+Solving Wordle@ 100     
+Trova la parità@ 100     
+Tieni aggiornato il catalogo@ 100     
+La camera dei cestini@ 100     
+Cammino minimo@ 100     
+Operazioni su array@ 100     
+Police Investigation 7@ 100     
+Practical Jokes@ 25     
+Reading Papers@ 100     
+Drawing Slashes@ 100     
+Chess Tournament@ 100     
+Gelati costosi@ 100     
+Bustine di carte@ 100     
+Festa Estiva@ 100     
+Torta di Compleanno@ 100     
+Sui tetti di Pisa@ 100     
+Glassworks@ 60     
+Connect the Dots@ 100     
+Plagiarism Detection@ 100     
+Chi cerchia trova@ 100     
+Indecisioni su array@ 100     
+Fuga da Varaždin@ 100     
+Formiche, che soggetto!@ 100     
+Comune di Alleib@ 100     
+Insiemi nell'armadio@ 100     
+Episodio I: un acquisto difficile@ 100     
+Episodio II: un lungo viaggio@ 100     
+Episodio IV: tracce di DNA@ 21     
+Palindromic Dreams@ 100     
+Monopoly Board Game@ 100     
+Panama Sum@ 100     
+Police Patrol@ 100     
+Chess Tournament II@ 100     
+Vending Machines@ 100     
+Grande Muraglia@ 100     
+Tris in solitaria 2@ 100     
+end
+fve5
+Aliens@ 17     
+Combinazione segreta@ 100     
+Espressioni senza operatori@ 100     
+Olympic pizza@ 0     
+POI@ 0     
+Flipping Coins@ 100     
+Multiples of 3@ 100     
+Can you answer these queries III@ 100     
+Massima sottostringa@ 25     
+Triangoli pienotti@ 47     
+Mattia e i suoi vasi@ 100     
+Mattia e i suoi vasi 2.0@ 70     
+Trova il massimo@ 100     
+Alberi@ 100     
+Piastrellature@ 100     
+La congettura di Collatz@ 100     
+Insieme K-free@ 100     
+Minimum spanning tree@ 75     
+Biglietti a Milano@ 100     
+Congettura di Lollatz@ 100     
+Espressioni@ 100     
+Tris in solitaria@ 100     
+Trampolino elastico@ 100     
+Pranzo dalla nonna@ 100     
+Cerca le somme@ 100     
+Giro di boa@ 100     
+Terrazzamenti@ 100     
+Incendia lo trabucco@ 0     
+Ordinamento a paletta@ 100     
+Congettura di Bicollatz@ 100     
+Truffa contabile@ 100     
+Super Marco@ 100     
+Numero della cabala@ 100     
+Parser HTML@ 100     
+Labigriglia@ 100     
+Anno luce@ 100     
+Esame di Aritmanzia (Arithmancy Exam)@ 100     
+Analizza la palestra (Gym processing)@ 100     
+Un tragitto impegnativo (A challenging route)@ 100     
+GitUbe Graph@ 100     
+L33t H4xX0R@ 100     
+Sequenza di Pollatz@ 100     
+Pacchetti corrotti@ 55     
+Studio amico@ 100     
+Pazza gioia@ 82     
+Stanza degli specchi@ 8     
+Decimal Fractions@ 100     
+Numerological prediction@ 100     
+Gira i pancake@ 100     
+Partita a Snake@ 100     
+Sushi variegato@ 100     
+Circuiti bruciati@ 100     
+Festival del GCD@ 100     
+Master Chef@ 0     
+Lucky Numbers@ 100     
+Flow free@ 20     
+Treni@ 100     
+Railway Schedule@ 100     
+Air Traffic Control@ 100     
+Air Traffic Control II@ 100     
+Crittografia RSA@ 100     
+Innumerevoli progetti@ 100     
+Lotteria di quadri@ 100     
+Cenacolo@ 100     
+Sfida all'ultimo pangramma@ 100     
+Murale@ 100     
+Biliardino@ 100     
+Dario e la Crew@ 100     
+Incontri inaspettati II@ 100     
+Fontana del Porcellino@ 100     
+Bases Conversion@ 100     
+Hasta Siempre, Comandante Chen Guevara!@ 100     
+Exam Room@ 100     
+IP Address@ 100     
+Police Investigation@ 100     
+Find the Treasure@ 100     
+Camera dei Segreti@ 15     
+The Enigma of the Dungeon Cave@ 100     
+Coin Change@ 100     
+Do Not Gather!@ 100     
+Back to the Himalayas@ 100     
+Perfect Hyperrectangle@ 100     
+Improve the Team!@ 0     
+Prime Pancakes@ 100     
+Guess The Sign@ 100     
+Johnnie Walker@ 100     
+Git Status@ 100     
+Perfect Pizza@ 100     
+Second Dose@ 100     
+Smart Thermostat@ 100     
+Buy 3, Pay for 2@ 100     
+Productivity Prize@ 100     
+Maybe you already know this problem@ 100     
+Memory exercises@ 100     
+Magic tree@ 3     
+Subtrees' mode@ 75     
+Implement a segment tree@ 100     
+Lowest Common Ancestor@ 100     
+Gita Turistica@ 100     
+Quantum Brackets@ 100     
+Sand Buckets@ 100     
+Disk Failure@ 0     
+License Key Generator@ 0     
+Police Investigation 3@ 100     
+UEFA Champions League@ 100     
+Pulizie d'autunno@ 58     
+Rifiuti da riciclare@ 0     
+Foglietto illustrativo@ 65     
+Evasione dall'armadio@ 100     
+Trova la permutazione@ 100     
+Aggiornamento della macchina virtuale@ 100     
+Beta Release@ 100     
+Christmas Balls@ 100     
+Disk Failure 2@ 100     
+Kalindrome Strings@ 100     
+Investing in Stocks@ 100     
+Flappy Bird@ 100     
+Keyboard Shift@ 100     
+Words, Just Words@ 100     
+Strange Constellations@ 100     
+Formula One Race@ 100     
+Game of the Goose@ 100     
+Quasi-Isogram@ 100     
+Solving Wordle@ 100     
+Trova la parità@ 100     
+Tieni aggiornato il catalogo@ 100     
+La camera dei cestini@ 100     
+Cammino minimo@ 100     
+Operazioni su array@ 100     
+Simple Calculator@ 100     
+Color the Points@ 30     
+Drawing Slashes@ 11     
+Chess Tournament@ 100     
+Gelati costosi@ 100     
+Bustine di carte@ 100     
+Festa Estiva@ 100     
+Torta di Compleanno@ 100     
+Sui tetti di Pisa@ 100     
+Glassworks@ 0     
+Plagiarism Detection@ 100     
+Trova la somma (fast input)@ 3     
+Chi cerchia trova@ 100     
+Indecisioni su array@ 100     
+Fuga da Varaždin@ 43     
+Formiche, che soggetto!@ 100     
+Comune di Alleib@ 100     
+Insiemi nell'armadio@ 86     
+Galleria d'arte@ 100     
+Episodio I: un acquisto difficile@ 100     
+Episodio II: un lungo viaggio@ 100     
+Episodio III: la coda per il buffet@ 100     
+Episodio IV: tracce di DNA@ 100     
+Halloween Candies@ 100     
+Palindromic Dreams@ 100     
+Lost in Dristor 2@ 100     
+Monopoly Board Game@ 100     
+Panama Sum@ 100     
+Police Patrol@ 100     
+Chess Tournament II@ 100     
+Vending Machines@ 100     
+Grande Muraglia@ 100     
+Tris in solitaria 2@ 100     
+Soste in autostrada@ 100     
+end
+Argon18
+La battaglia del convoglio@ 100     
+Place@ 100     
+Entscheidungsproblem@ 100     
+Allenamento per la maratona@ 100     
+Scrivere senza staccare la matita dal foglio@ 40     
+Flipping Coins@ 100     
+Multiples of 3@ 100     
+Can you answer these queries III@ 100     
+Salta il coniglietto@ 100     
+Mattia e i suoi vasi@ 100     
+Mattia e i suoi vasi 2.0@ 100     
+Spiedini di frutta@ 100     
+Trova il massimo@ 100     
+Trova la somma pari massima@ 100     
+Trova la somma pari massima v2.0@ 100     
+Il triangolo@ 100     
+La dieta di Poldo@ 100     
+Numeri antipatici@ 100     
+Accensione dei PC@ 100     
+Minimum spanning tree@ 100     
+Biglietti a Milano@ 100     
+Interrogazioni equilibrate@ 100     
+Edoardo e la lotteria@ 100     
+Tris in solitaria@ 100     
+Fette di strudel@ 100     
+Pranzo dalla nonna@ 100     
+Incendia lo trabucco@ 100     
+Torre di controllo@ 100     
+Ordinamento a paletta@ 100     
+Nemico mortale@ 100     
+Truffa contabile@ 100     
+Super Marco@ 100     
+Numero della cabala@ 100     
+Anno luce@ 100     
+Ferrovia ad alta velocità@ 100     
+Classifica senza fili@ 71     
+Scale di Hogwarts@ 100     
+Solleone sul lungomare@ 53     
+Tesla Motors@ 100     
+Sport intellettuali@ 100     
+DreamTeam Selection@ 100     
+Ordine pubblico@ 100     
+Pazza gioia@ 4     
+Gondola network@ 100     
+Copyright notice@ 30     
+Festival del GCD@ 100     
+Treni@ 100     
+Railway Schedule@ 70     
+Forgotten Pencil Case@ 100     
+Air Traffic Control@ 100     
+Lovely Cats@ 100     
+Unreadable Dates@ 100     
+Text Editor@ 100     
+Art Gallery Selection@ 65     
+The Kabbalah Returns@ 100     
+Persian Party@ 100     
+Compulsive Shopping@ 100     
+Corsa contro il tempo@ 100     
+Crittografia RSA@ 100     
+Lotteria di quadri@ 100     
+Grattacieli commemorativi@ 100     
+Cecilia e l'orticoltura@ 40     
+Sfida all'ultimo pangramma@ 72     
+Pila di monete@ 100     
+Murale@ 100     
+Biliardino@ 100     
+Dario e la Crew@ 0     
+Incontri inaspettati II@ 100     
+Fontana del Porcellino@ 100     
+Scavi fortunati@ 100     
+Tax avoidance@ 100     
+Save The Barrels@ 100     
+Funny Circuits@ 100     
+Permutazioni@ 100     
+Sfere numerate@ 0     
+Hasta Siempre, Comandante Chen Guevara!@ 100     
+Dangerous Flowers@ 100     
+Worst Exam Ever!@ 100     
+A Fair Rock Game@ 40     
+Lightweight Ladder@ 100     
+Board Game@ 100     
+Police Investigation@ 100     
+Pulsating Radars@ 100     
+Corsa Contro il Tempo 2@ 100     
+Forum Management@ 100     
+Find the Treasure@ 100     
+Ropes Escape@ 100     
+Late for Work@ 100     
+Camera dei Segreti@ 0     
+Circus Show@ 100     
+Pay That Box Again!@ 100     
+Splitting the Bill@ 100     
+Flood Forecasting@ 100     
+Exam Session@ 100     
+Graduation Card@ 100     
+Delivery Time@ 100     
+The Enigma of the Dungeon Cave@ 100     
+Tax Fraud Detection@ 100     
+Electrical Power Line@ 100     
+Pordenone Hill Sign@ 100     
+Subset Fight@ 100     
+Swimming Pool@ 100     
+Christmas Tree@ 100     
+Xorstanta@ 100     
+Password dimenticata@ 100     
+Mascherine sporche@ 100     
+Truffa al sushi@ 94     
+Reazione a candela@ 100     
+Ordine online@ 0     
+Pay That Box! Home Edition@ 100     
+Coin Change@ 100     
+Police Investigation 2@ 100     
+Crazy Roller Coaster@ 100     
+Passphrase Obfuscation@ 100     
+Count the Floors!@ 100     
+Do Not Gather!@ 100     
+Back to the Himalayas@ 100     
+Perfect Hyperrectangle@ 100     
+Improve the Team!@ 100     
+Guess The Sign@ 100     
+Johnnie Walker@ 30     
+Picarats Collection@ 100     
+Perfect Pizza@ 100     
+Second Dose@ 100     
+Smart Thermostat@ 100     
+Trending Topics@ 100     
+Buy 3, Pay for 2@ 100     
+Saturday Night Game@ 33     
+Moving Heavy Loads@ 100     
+Virus Sequencing@ 100     
+Productivity Prize@ 100     
+Pronounceable Words@ 100     
+Maybe you already know this problem@ 100     
+Memory exercises@ 100     
+Magic tree@ 50     
+Subtrees' mode@ 50     
+Implement a segment tree@ 100     
+Lowest Common Ancestor@ 100     
+Marathon Training@ 100     
+Multiselect@ 0     
+Map of Tasks@ 100     
+Musical Fight@ 100     
+VS-Movies Group@ 100     
+Weak Hash Function@ 91     
+Gita Turistica@ 15     
+Another Boring Problem@ 100     
+Quantum Brackets@ 100     
+Sand Buckets@ 100     
+Disk Failure@ 100     
+License Key Generator@ 0     
+Police Investigation 3@ 100     
+City Redevelopment@ 100     
+Rifiuti da riciclare@ 100     
+Smaltimento sostanze tossiche@ 100     
+Allenamento su ChinaForces@ 100     
+Evasione dall'armadio@ 100     
+Trova la permutazione@ 100     
+Aggiornamento della macchina virtuale@ 100     
+Beta Release@ 100     
+Christmas Balls@ 100     
+Disk Failure 2@ 100     
+Kalindrome Strings@ 100     
+Pub Encounter@ 100     
+Police Investigation 5@ 100     
+Investing in Stocks@ 100     
+Plowing Fields@ 51     
+Bitwise Party@ 100     
+Flappy Bird@ 100     
+Keyboard Shift@ 100     
+Training for the Marathon@ 100     
+Police Investigation 6@ 100     
+The Sieve of Eratosthenes@ 100     
+Wine Tasting Tour@ 100     
+Words, Just Words@ 100     
+Strange Constellations@ 100     
+Formula One Race@ 100     
+Game of the Goose@ 100     
+Quasi-Isogram@ 100     
+City Tour@ 100     
+Police Investigation 4@ 100     
+Solving Wordle@ 100     
+Trova la parità@ 100     
+Tieni aggiornato il catalogo@ 100     
+La camera dei cestini@ 100     
+Cammino minimo@ 100     
+Operazioni su array@ 100     
+Simple Calculator@ 61     
+Pordenone's Cyberspace@ 100     
+Police Investigation 7@ 100     
+Practical Jokes@ 100     
+Reading Papers@ 100     
+Drawing Slashes@ 100     
+Chess Tournament@ 100     
+Gelati costosi@ 100     
+Bustine di carte@ 100     
+Festa Estiva@ 100     
+Torta di Compleanno@ 100     
+Sui tetti di Pisa@ 100     
+Connect the Dots@ 100     
+Picnic's Table@ 100     
+Big Stonks@ 100     
+Trova la somma (fast input)@ 0     
+Indecisioni su array@ 100     
+Fuga da Varaždin@ 100     
+Formiche, che soggetto!@ 100     
+Comune di Alleib@ 100     
+Insiemi nell'armadio@ 100     
+Galleria d'arte@ 100     
+Episodio I: un acquisto difficile@ 100     
+Episodio II: un lungo viaggio@ 100     
+Episodio III: la coda per il buffet@ 100     
+Episodio IV: tracce di DNA@ 100     
+Halloween Candies@ 100     
+Palindromic Dreams@ 100     
+Monopoly Board Game@ 100     
+Panama Sum@ 100     
+Police Patrol@ 100     
+Grande Muraglia@ 100     
+end
+utente2
+All Possible Increasing Subsequences@ 100      
+Flipping Coins@ 5      
+Can you answer these queries III@ 100      
+Traffic Congestion@ 100      
+Trova il massimo@ 100      
+Trova la somma pari massima v2.0@ 90      
+Campo minato@ 100      
+La congettura di Collatz@ 100      
+Salti spettacolari@ 100      
+Tè con gli amici@ 50      
+Trasporti pericolosi@ 100      
+Biglietti a Milano@ 100      
+Hello World!@ 100      
+Tris in solitaria@ 0      
+Fette di strudel@ 100      
+Previsioni meteorologiche@ 100      
+Terrazzamenti@ 100      
+Ordinamento a paletta@ 100      
+Truffa contabile@ 100      
+Dijkstra@ 0      
+Apple juice challenge@ 0      
+Sede Centrale@ 92      
+Greedy Santa@ 50      
+N-Restaurants@ 100      
+Forced Sales@ 100      
+Treni@ 100      
+Forgotten Pencil Case@ 15      
+Air Traffic Control@ 100      
+Crittografia RSA@ 100      
+Murale@ 60      
+Dangerous Flowers@ 100      
+Electrical Power Line@ 0      
+Reazione a candela@ 26      
+Emoji di compleanno@ 0      
+Coin Change@ 0      
+Guess The Sign@ 100      
+Smart Thermostat@ 100      
+Buy 3, Pay for 2@ 100      
+Productivity Prize@ 100      
+Subtrees' mode@ 50      
+Implement a segment tree@ 0      
+Lowest Common Ancestor@ 75      
+Sand Buckets@ 100      
+Pulizie d'autunno@ 100      
+Rifiuti da riciclare@ 5      
+Pub Encounter@ 20      
+Police Investigation 5@ 100      
+Flappy Bird@ 100      
+Training for the Marathon@ 45      
+Police Investigation 6@ 100      
+Bustine di carte@ 100      
+Connect the Dots@ 100      
+Fuga da Varaždin@ 100      
+Comune di Alleib@ 100      
+Insiemi nell'armadio@ 41      
+Galleria d'arte@ 55      
+Panama Sum@ 100      
+Police Patrol@ 10      
+Chess Tournament II@ 100      
+Vending Machines@ 0      
+Grande Muraglia@ 100      
+Soste in autostrada@ 0      
+end
+utente2
+All Possible Increasing Subsequences@ 100       
+Flipping Coins@ 5       
+Can you answer these queries III@ 100       
+Traffic Congestion@ 100       
+Trova il massimo@ 100       
+Trova la somma pari massima v2.0@ 90       
+Campo minato@ 100       
+La congettura di Collatz@ 100       
+Salti spettacolari@ 100       
+Tè con gli amici@ 50       
+Trasporti pericolosi@ 100       
+Biglietti a Milano@ 100       
+Hello World!@ 100       
+Tris in solitaria@ 0       
+Fette di strudel@ 100       
+Previsioni meteorologiche@ 100       
+Terrazzamenti@ 100       
+Ordinamento a paletta@ 100       
+Truffa contabile@ 100       
+Dijkstra@ 0       
+Apple juice challenge@ 0       
+Sede Centrale@ 92       
+Greedy Santa@ 50       
+N-Restaurants@ 100       
+Forced Sales@ 100       
+Treni@ 100       
+Forgotten Pencil Case@ 15       
+Air Traffic Control@ 100       
+Crittografia RSA@ 100       
+Murale@ 60       
+Dangerous Flowers@ 100       
+Electrical Power Line@ 0       
+Reazione a candela@ 26       
+Emoji di compleanno@ 0       
+Coin Change@ 0       
+Guess The Sign@ 100       
+Smart Thermostat@ 100       
+Buy 3, Pay for 2@ 100       
+Productivity Prize@ 100       
+Subtrees' mode@ 50       
+Implement a segment tree@ 0       
+Lowest Common Ancestor@ 75       
+Sand Buckets@ 100       
+Pulizie d'autunno@ 100       
+Rifiuti da riciclare@ 5       
+Pub Encounter@ 20       
+Police Investigation 5@ 100       
+Flappy Bird@ 100       
+Training for the Marathon@ 45       
+Police Investigation 6@ 100       
+Bustine di carte@ 100       
+Connect the Dots@ 100       
+Fuga da Varaždin@ 100       
+Comune di Alleib@ 100       
+Insiemi nell'armadio@ 41       
+Galleria d'arte@ 55       
+Panama Sum@ 100       
+Police Patrol@ 10       
+Chess Tournament II@ 100       
+Vending Machines@ 0       
+Grande Muraglia@ 100       
+Soste in autostrada@ 0       
+end
