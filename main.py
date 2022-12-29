@@ -95,16 +95,17 @@ def main():
 
     global user
     while 1:
-        user = input("inserisci il nome utente\n")
+        user = input("inserisci il nome utente oppure fine\n")
         if(user == "fine"):
             break
+
         nomi2.append(user)
         rawdata()
         if res["success"] != 0:
             ispresent()
 
     for item in utenti:
-        if not(item.username in nomi2):
+        if not(item.username[:-1] in nomi2):
             users.write(f'{item.username}')
             for task in item.tasks:
                 users.write(f'{task}@ {item.tasks[task]} \n')
